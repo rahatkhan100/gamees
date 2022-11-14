@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    text-align: center;
+    background-color: red;
+    margin-top: 300px;
+}
+.main h2 {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    height: 100px;
+  
+}
+.main h2:hover{
+    background-color: blue;
+    transition: 0.5s;
+    
+}
